@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+happy-green-life.eu	TRUE	/	FALSE	1999999999	PHPSESSID	b9aacc99163eb482682d796f8a9fea66
+happy-green-life.eu	TRUE	/	FALSE	1999999999	pll_language	de
+.happy-green-life.eu	TRUE	/	FALSE	1999999999	__cfduid	d7ea5031240ee7370a8d61e27ba6096c91463123221
+

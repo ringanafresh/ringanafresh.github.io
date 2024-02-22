@@ -1,0 +1,94 @@
+HTTrack3.48-21+htsswf+htsjava launched on Fri, 13 May 2016 08:53:15 at happy-green-life.eu +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qw%e0C2%P0s0u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -%F  -%l "en, *" happy-green-life.eu -O1 "C:\Users\speedy\Downloads\HTTrack_Downloads\hostgator pages\happygreenlife.eu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:53:17	Warning: 	Moved Temporarily for happy-green-life.eu/
+08:53:17	Warning: 	File has moved from happy-green-life.eu/ to http://happy-green-life.eu/welcome/
+09:02:19	Warning: 	Retry after error -4 (Incorrect length (1272362 Bytes, 1884512 expected)) at link happy-green-life.eu/wp-content/uploads/Bild21.png (from happy-green-life.eu/welcome/)
+09:02:20	Warning: 	Retry after error -4 (Incorrect length (504924 Bytes, 1165097 expected)) at link happy-green-life.eu/wp-content/uploads/Bild17.png (from happy-green-life.eu/welcome/)
+09:02:28	Warning: 	Retry after error -4 (Incorrect length (517604 Bytes, 1333577 expected)) at link happy-green-life.eu/wp-content/uploads/Bild5.png (from happy-green-life.eu/welcome/)
+09:02:58	Warning: 	Retry after error -4 (Incorrect length (823947 Bytes, 1362252 expected)) at link happy-green-life.eu/wp-content/uploads/Bild11.png (from happy-green-life.eu/welcome/)
+09:03:39	Warning: 	Retry after error -4 (Incorrect length (922886 Bytes, 1426196 expected)) at link happy-green-life.eu/wp-content/uploads/Bild8.png (from happy-green-life.eu/welcome/)
+09:03:58	Warning: 	Retry after error -4 (Incorrect length (816274 Bytes, 1557646 expected)) at link happy-green-life.eu/wp-content/uploads/Bild4.png (from happy-green-life.eu/welcome/)
+09:04:06	Warning: 	Retry after error -4 (Incorrect length (808825 Bytes, 1510767 expected)) at link happy-green-life.eu/wp-content/uploads/Bild6.png (from happy-green-life.eu/welcome/)
+09:04:54	Error: 	"Not Found" (404) at link happy-green-life.eu/wp-content/plugins/bootstrap-shortcodes/images/glyphicons-halflings-white.png (from happy-green-life.eu/wp-content/plugins/bootstrap-shortcodes/css/shortcodes.css?ver=4.2.8)
+09:04:54	Error: 	"Not Found" (404) at link happy-green-life.eu/wp-content/themes/images/pre.jpg (from happy-green-life.eu/wp-content/themes/thinker/style.css?ver=1.0)
+09:04:54	Error: 	"Not Found" (404) at link happy-green-life.eu/wp-content/themes/thinker/images/icons/retina/forrst@2x.png (from happy-green-life.eu/wp-content/themes/thinker/retina.css?ver=1.0)
+09:05:33	Warning: 	Retry after error -4 (Incorrect length (653157 Bytes, 1076956 expected)) at link happy-green-life.eu/wp-content/uploads/Bild14.png (from happy-green-life.eu/willkommen/)
+09:05:34	Warning: 	Moved Permanently for happy-green-life.eu/?p=873
+09:05:34	Warning: 	File has moved from happy-green-life.eu/?p=873 to http://happy-green-life.eu/markt-erkennen/
+09:05:34	Warning: 	Moved Permanently for happy-green-life.eu/?p=884
+09:05:34	Warning: 	File has moved from happy-green-life.eu/?p=884 to http://happy-green-life.eu/das-richtige-unternehmen/
+09:05:34	Warning: 	Moved Permanently for happy-green-life.eu/?p=887
+09:05:34	Warning: 	File has moved from happy-green-life.eu/?p=887 to http://happy-green-life.eu/die-chance-ergreifen/
+09:05:38	Warning: 	Moved Permanently for happy-green-life.eu/?p=980
+09:05:38	Warning: 	File has moved from happy-green-life.eu/?p=980 to http://happy-green-life.eu/handeln-2/
+09:05:45	Warning: 	Moved Permanently for happy-green-life.eu/?p=103
+09:05:45	Warning: 	File has moved from happy-green-life.eu/?p=103 to http://happy-green-life.eu/company/
+09:05:45	Warning: 	Moved Permanently for happy-green-life.eu/?p=110
+09:05:45	Warning: 	File has moved from happy-green-life.eu/?p=110 to http://happy-green-life.eu/career/
+09:05:47	Warning: 	Moved Permanently for happy-green-life.eu/?p=112
+09:05:47	Warning: 	File has moved from happy-green-life.eu/?p=112 to http://happy-green-life.eu/our-shop/
+09:05:47	Error: 	"Not Found" (404) at link happy-green-life.eu/our-shop/Recycle2 (from happy-green-life.eu/our-shop/)
+09:05:47	Error: 	"Not Found" (404) at link happy-green-life.eu/our-shop/Recycle1 (from happy-green-life.eu/our-shop/)
+09:05:47	Error: 	"Not Found" (404) at link happy-green-life.eu/our-shop/Apotheke (from happy-green-life.eu/our-shop/)
+09:05:47	Warning: 	Moved Permanently for happy-green-life.eu/?p=489
+09:05:47	Warning: 	File has moved from happy-green-life.eu/?p=489 to http://happy-green-life.eu/blog/
+09:05:47	Warning: 	Moved Permanently for happy-green-life.eu/?p=118
+09:05:47	Warning: 	File has moved from happy-green-life.eu/?p=118 to http://happy-green-life.eu/contact-2/
+09:05:47	Warning: 	Retry after error -4 (Incorrect length (954523 Bytes, 1333577 expected)) at link happy-green-life.eu/wp-content/uploads/Bild5.png (from happy-green-life.eu/welcome/)
+09:05:48	Warning: 	Retry after error -4 (Incorrect length (1304110 Bytes, 1557646 expected)) at link happy-green-life.eu/wp-content/uploads/Bild4.png (from happy-green-life.eu/welcome/)
+09:05:48	Warning: 	Moved Permanently for happy-green-life.eu/?p=745
+09:05:48	Warning: 	File has moved from happy-green-life.eu/?p=745 to http://happy-green-life.eu/tipps-tricks-en/
+09:05:48	Warning: 	Moved Permanently for happy-green-life.eu/?p=812
+09:05:48	Warning: 	File has moved from happy-green-life.eu/?p=812 to http://happy-green-life.eu/books/
+09:05:48	Warning: 	Moved Permanently for happy-green-life.eu/?p=743
+09:05:48	Warning: 	File has moved from happy-green-life.eu/?p=743 to http://happy-green-life.eu/disclaimer/
+09:05:48	Warning: 	Moved Permanently for happy-green-life.eu/?p=739
+09:05:48	Warning: 	File has moved from happy-green-life.eu/?p=739 to http://happy-green-life.eu/about-me_en/
+09:05:48	Warning: 	Moved Permanently for happy-green-life.eu/?p=132
+09:05:48	Warning: 	File has moved from happy-green-life.eu/?p=132 to http://happy-green-life.eu/unternehmen/
+09:05:48	Warning: 	Moved Permanently for happy-green-life.eu/?p=144
+09:05:48	Warning: 	File has moved from happy-green-life.eu/?p=144 to http://happy-green-life.eu/karriere/
+09:05:48	Warning: 	Moved Permanently for happy-green-life.eu/?p=146
+09:05:48	Warning: 	File has moved from happy-green-life.eu/?p=146 to http://happy-green-life.eu/frische-shop/
+09:05:48	Error: 	"Not Found" (404) at link happy-green-life.eu/frische-shop/Recycle2 (from happy-green-life.eu/frische-shop/)
+09:05:48	Error: 	"Not Found" (404) at link happy-green-life.eu/frische-shop/Recycle1 (from happy-green-life.eu/frische-shop/)
+09:05:48	Error: 	"Not Found" (404) at link happy-green-life.eu/frische-shop/Apotheke (from happy-green-life.eu/frische-shop/)
+09:05:48	Warning: 	Moved Permanently for happy-green-life.eu/?p=520
+09:05:48	Warning: 	File has moved from happy-green-life.eu/?p=520 to http://happy-green-life.eu/pflanzen-und-krauter/
+09:06:17	Warning: 	Moved Permanently for happy-green-life.eu/?p=152
+09:06:17	Warning: 	File has moved from happy-green-life.eu/?p=152 to http://happy-green-life.eu/kontakt/
+09:06:46	Warning: 	Moved Permanently for happy-green-life.eu/?p=733
+09:06:46	Warning: 	File has moved from happy-green-life.eu/?p=733 to http://happy-green-life.eu/tipps-tricks/
+09:06:46	Warning: 	Moved Permanently for happy-green-life.eu/?p=796
+09:06:46	Warning: 	File has moved from happy-green-life.eu/?p=796 to http://happy-green-life.eu/bucher/
+09:06:46	Warning: 	Moved Permanently for happy-green-life.eu/?p=726
+09:06:46	Warning: 	File has moved from happy-green-life.eu/?p=726 to http://happy-green-life.eu/datenschutz/
+09:06:46	Warning: 	Moved Permanently for happy-green-life.eu/?p=730
+09:06:46	Warning: 	File has moved from happy-green-life.eu/?p=730 to http://happy-green-life.eu/about-me/
+09:07:19	Warning: 	Moved Permanently for happy-green-life.eu/?p=1012
+09:07:19	Warning: 	File has moved from happy-green-life.eu/?p=1012 to http://happy-green-life.eu/aloe-vera/
+09:07:19	Warning: 	Moved Permanently for happy-green-life.eu/?p=833
+09:07:19	Warning: 	File has moved from happy-green-life.eu/?p=833 to http://happy-green-life.eu/ringelblume/
+09:07:20	Warning: 	Moved Permanently for happy-green-life.eu/happygreenlife/willkommen/
+09:07:20	Warning: 	File has moved from happy-green-life.eu/happygreenlife/willkommen/ to http://happy-green-life.eu/willkommen/
+09:07:20	Warning: 	Moved Permanently for happy-green-life.eu/happygreenlife/das-richtige-unternehmen/
+09:07:20	Warning: 	File has moved from happy-green-life.eu/happygreenlife/das-richtige-unternehmen/ to http://happy-green-life.eu/das-richtige-unternehmen/
+09:07:20	Warning: 	Moved Permanently for happy-green-life.eu/happygreenlife/unternehmen/
+09:07:20	Warning: 	File has moved from happy-green-life.eu/happygreenlife/unternehmen/ to http://happy-green-life.eu/unternehmen/
+09:07:20	Warning: 	Moved Permanently for happy-green-life.eu/happygreenlife/markt-erkennen/
+09:07:20	Warning: 	File has moved from happy-green-life.eu/happygreenlife/markt-erkennen/ to http://happy-green-life.eu/markt-erkennen/
+09:07:20	Warning: 	Moved Permanently for happy-green-life.eu/happygreenlife/die-chance-ergreifen/
+09:07:20	Warning: 	File has moved from happy-green-life.eu/happygreenlife/die-chance-ergreifen/ to http://happy-green-life.eu/die-chance-ergreifen/
+09:07:20	Warning: 	Moved Permanently for happy-green-life.eu/happygreenlife/handeln-2/
+09:07:20	Warning: 	File has moved from happy-green-life.eu/happygreenlife/handeln-2/ to http://happy-green-life.eu/handeln-2/
+09:07:20	Warning: 	Moved Permanently for happy-green-life.eu/happygreenlife/kontakt/
+09:07:20	Warning: 	File has moved from happy-green-life.eu/happygreenlife/kontakt/ to http://happy-green-life.eu/kontakt/
+
+HTTrack Website Copier/3.48-21 mirror complete in 14 minutes 6 seconds : 421 links scanned, 370 files written (21049797 bytes overall) [19609071 bytes received at 23178 bytes/sec], 2991449 bytes transferred using HTTP compression in 142 files, ratio 39%, 12.6 requests per connection
+(9 errors, 74 warnings, 0 messages)
